@@ -77,13 +77,3 @@ Through this project, I gained practical experience in:
 - User and license management
 
 ---
-
-# Resume Project Experience
-
-- Configured and managed Microsoft 365 cloud services in a simulated enterprise environment
-- Created and administered organizational user accounts
-- Assigned and verified Microsoft 365 licenses
-- Configured Outlook communication between users
-- Implemented secure OneDrive cloud sharing
-- Performed password reset and account recovery tasks
-- Troubleshot Microsoft cloud administration issues
